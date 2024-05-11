@@ -15,7 +15,7 @@ on:
         type: boolean
       rom_url:
         description: 'ROM 下载直链'
-        required:https://bigota.d.miui.com/OS1.0.15.0.UNKCNXM/miui_VERMEER_OS1.0.15.0.UNKCNXM_2100d3fc37_14.0.zip
+        required:
 
 jobs:
   extract_partition:
